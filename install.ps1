@@ -18,7 +18,7 @@ param()
 $ErrorActionPreference = 'Stop'
 
 # --- config ---
-$RepoRawUrl   = 'https://raw.githubusercontent.com/<your-username>/spinner-verbs-dublin/main/spinner-verbs-dublin.json'
+$RepoRawUrl   = 'https://raw.githubusercontent.com/<your-username>/spinner-verbs-dublin/main/spinner-verbs.json'
 $SettingsDir  = Join-Path $HOME '.claude'
 $SettingsFile = Join-Path $SettingsDir 'settings.json'
 
