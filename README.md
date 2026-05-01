@@ -53,7 +53,7 @@ Restart Claude Code afterwards and you're sorted.
 
 ### Manual install
 
-Open `~/.claude/settings.json` and merge in the contents of `spinner-verbs-dublin.json`:
+Open `~/.claude/settings.json` and merge in the contents of `spinner-verbs.json`:
 
 ```json
 {
