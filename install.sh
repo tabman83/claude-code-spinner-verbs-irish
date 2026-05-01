@@ -6,7 +6,7 @@
 set -euo pipefail
 
 # --- config ---
-REPO_RAW_URL="https://raw.githubusercontent.com/tabman83/spinner-verbs-dublin/main/spinner-verbs-dublin.json"
+REPO_RAW_URL="https://raw.githubusercontent.com/tabman83/spinner-verbs-dublin/main/spinner-verbs.json"
 SETTINGS_DIR="${HOME}/.claude"
 SETTINGS_FILE="${SETTINGS_DIR}/settings.json"
 
