@@ -25,7 +25,7 @@ Pure bollix altogether…
 Sure it'll be grand…
 ```
 
-The full list is in [`spinner-verbs-dublin.json`](./spinner-verbs-dublin.json).
+The full list is in [`spinner-verbs.json`](./spinner-verbs.json).
 
 ## Install
 
